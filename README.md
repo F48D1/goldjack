@@ -1,15 +1,8 @@
 # GoldJack
 Инструмент шакализатор для Ваших изображений!
 <br/>
-<br/>Установка
-<br/>Arch: 
-<br/>yay -S goldjack
-<br/>
-<br/>ИЛИ
-<br/>
-<br/>git clone https://aur.archlinux.org/goldjack.git
-<br/>cd goldjack
-<br/>makepkg -si
+<br/>Установка:
+<br/>Arch: yay -S goldjack
 <br/>
 <br/>Помощь:
 <br/>Использование: goldjack [параметры]
@@ -28,15 +21,8 @@
 <br/>
 <br/>Jakalizer tool for your images!
 <br/>
-<br/>Install
-<br/>Arch: 
-<br/>yay -S goldjack
-<br/>
-<br/>OR
-<br/>
-<br/>git clone https://aur.archlinux.org/goldjack.git
-<br/>cd goldjack
-<br/>makepkg -si
+<br/>Install:
+<br/>Arch: yay -S goldjack
 <br/>
 <br/>Help:
 <br/>Usage: goldjack [options]
