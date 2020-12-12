@@ -11,7 +11,7 @@ def getArgs():
 
         try:
             if arg == '--help' or arg == '-h':
-                exit(`
+                exit("""
 Help:
 Usage: goldjack [options]
 
@@ -25,7 +25,7 @@ Options:
 -t, --to Path to final image (/home/testUser/Pictures/jakalPic.png)
 -f, --format Format final image (jpg, png, qweqwe, anything)
 -q, --quality Quality finaml image (0-100) 
-                     `)
+                     """)
             elif arg == '-s' or arg == '--source':
                 argumentList.update({'-s': sys.argv[i+1]})
             elif arg == '-t' or arg == '--to':
