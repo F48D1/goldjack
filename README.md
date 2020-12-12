@@ -1,10 +1,20 @@
 # GoldJack
 Jakalizer tool for your images!
 <br/>
+<br/>Install
+<br/>Arch: 
+<br/>yay -S goldjack
+<br/>
+<br/>OR
+<br/>
+<br/>git clone https://aur.archlinux.org/goldjack.git
+<br/>cd goldjack
+<br/>makepkg -si
+<br/>
 <br/>Help:
 <br/>Usage: goldjack [options]
 <br/>
-<br/>Required optinos:
+<br/>Required options:
 <br/>  -s, --source
 <br/>  -q, --quality
 <br/>
@@ -14,6 +24,18 @@ Jakalizer tool for your images!
 <br/>  -t, --to               Path to final image (/home/testUser/Pictures/jakalPic.png)
 <br/>  -f, --format           Format final image (jpg, png, qweqwe, anything)
 <br/>  -q, --quality          Quality finaml image (0-100)
+<br/>
+<br/>Инструмент шакализатор для Ваших изображений!
+<br/>
+<br/>Установка
+<br/>Arch: 
+<br/>yay -S goldjack
+<br/>
+<br/>ИЛИ
+<br/>
+<br/>git clone https://aur.archlinux.org/goldjack.git
+<br/>cd goldjack
+<br/>makepkg -si
 <br/>
 <br/>Помощь:
 <br/>Использование: goldjack [параметры]
