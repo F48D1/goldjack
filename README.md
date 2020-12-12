@@ -18,6 +18,13 @@
 <br/>  -f, --format           Формат конечного изображения (jpg, png, qweqwe, что угодно)
 <br/>  -q, --quality          Качество конeчного изображения (0-100)
 <br/>
+<br/>Пример: 
+<br/>goldjack -s SourceImage.png -t FinalImage.png -q 10
+<br>![alt text](https://github.com/F48D1/goldjack/blob/main/images/SourceImage.png)
+<br>![alt text](https://github.com/F48D1/goldjack/blob/main/images/FinalImage.png)
+
+
+
 <br/>
 <br/>Jakalizer tool for your images!
 <br/>
